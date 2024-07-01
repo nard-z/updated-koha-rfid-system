@@ -1,0 +1,44 @@
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\bin\Debug\RFID Solutions.exe.config
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\bin\Debug\RFID Solutions.exe
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\bin\Debug\RFID Solutions.pdb
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\bin\Debug\System.CodeDom.dll
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\bin\Debug\System.CodeDom.xml
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\bin\Debug\Interop.WMPLib.dll
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.csproj.AssemblyReference.cache
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\obj\Debug\Interop.WMPLib.dll
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.csproj.ResolveComReference.cache
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID_Solutions.Help.resources
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID_Solutions.Main.resources
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID_Solutions.Properties.Resources.resources
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.csproj.GenerateResource.cache
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.csproj.CopyComplete
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.exe
+C:\Users\Koha -Workstation\Desktop\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.pdb
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\bin\Debug\RFID Solutions.exe.config
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\bin\Debug\RFID Solutions.exe
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\bin\Debug\RFID Solutions.pdb
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\bin\Debug\System.CodeDom.dll
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\bin\Debug\System.CodeDom.xml
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\bin\Debug\Interop.WMPLib.dll
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.csproj.AssemblyReference.cache
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\obj\Debug\Interop.WMPLib.dll
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.csproj.ResolveComReference.cache
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID_Solutions.Help.resources
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID_Solutions.Main.resources
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID_Solutions.Properties.Resources.resources
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.csproj.GenerateResource.cache
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.csproj.CopyComplete
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.exe
+C:\Users\Koha -Workstation\Documents\RFID-Solutions-master\RFID Solutions\obj\Debug\RFID Solutions.pdb
